@@ -263,9 +263,7 @@ I came up with the acryonym drive to help me remember these categories.
 - Documents
 
 #### Embark
-- Start music
-- Set navigation
-- Dash Cam
+- Just Drive
 
 ## Still to do
 
