@@ -4,6 +4,7 @@ description = "How I enter my car"
 author = "Justin Napolitano"
 tags = ["lifestyle","anxiety"]
 images = ["images/feature-image.png"]
+draft = 'yes'
 +++
 
 
@@ -185,6 +186,86 @@ Car Checklist
 2. Set navigation
 3. Dash Cam
 
+
+## Further Refine the Checklist
+
+Okay the checklist isn't bad but it is difficult to remember.  
+
+### D R I V E
+
+I came up with the acryonym drive to help me remember these categories. 
+
+
+#### Deliberate Approach
+- Approach the vehicle
+- Sling backpack to front of body
+- Check both sides of the car before entering
+- Unlock Vehicle
+- Enter the vehicle
+
+#### Reinforce
+- Sit correctly
+- Close door
+- Lock doors
+
+#### Inventory
+- If raining, place umbrella
+- Remove backpack and place behind passenger seat
+- Remove water bottle and place in cup holder
+- Remove phone from satchel and place in holder with power cable
+- Remove satchel and hang on passenger seat
+- Place wallet onto instrument cluster
+- Put on sunglasses
+- Remove sunscreen from window. Place behind passenger seat
+
+#### Verify
+- Put on seatbelt
+- Check mirrors
+- Check lights are set to auto
+- Check that car insurance is in place
+- Check that car registration is in place
+
+#### Electronics
+- Start music
+- Set navigation
+- Dash Cam
+
+
+
+### Cleanin up the intermediary Steps
+
+#### Deliberately Approach - DASE
+
+- Deliberate (Prepare items for quick entry)
+- Approach the vehicle cautiously
+- Scan both sides of the car
+- Enter
+
+#### Reinforce - SEAL
+
+```SEcure and Lock```
+
+- Secure Myself
+- Lock the doors
+
+
+#### Inventory - ORDER
+- Organize My Things
+- Review Messages
+- Deploy Essentials
+- Equip Accessories
+- Ready Devices
+
+#### Verify
+- Mirrors
+- 
+- Lights
+- Documents
+
+#### Embark
+- Start music
+- Set navigation
+- Dash Cam
 
 ## Still to do
 
