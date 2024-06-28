@@ -4,7 +4,6 @@ description = "How I enter my car"
 author = "Justin Napolitano"
 tags = ["lifestyle","anxiety"]
 images = ["images/feature-image.png"]
-draft = 'yes'
 +++
 
 
