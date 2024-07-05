@@ -1,9 +1,10 @@
 +++
-title =  "Enter a Car"
-description = "How I enter my car"
+title =  "Entering my Car"
+description = "OCD and my vehicle"
 author = "Justin Napolitano"
 tags = ["lifestyle","anxiety"]
 images = ["images/feature-image.png"]
+date = "2024-06-27"
 +++
 
 
@@ -13,7 +14,7 @@ I am trying to approach life from the perspective that every action throughout t
 
 ### Entering my car
 
-How do I currently entery my car?
+How do I currently enter my car?
 
 1. I open the door (maybe this is another post)
 2. I sit down
