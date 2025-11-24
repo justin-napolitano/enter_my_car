@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - routine documentation
   - personal item management
 seoOptimized: true
+topicFamily: climbing
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post documents a physical routine involving vehicle entry with a focus on ergonomic
+  optimization and comfort, aligning with the 'Climbing' family which includes ergonomic and
+  physical comfort reflections and routines related to outdoor gear and activities. The post's
+  example slug matches the example in the catalog and the suggested tags like 'ergonomics' fit well.
 ---
 
 # Enter My Car: A Technical Reflection on Routine and Ergonomics
@@ -59,3 +66,4 @@ Documenting this routine provides a foundation for developing a standardized che
 ## Conclusion
 
 This project exemplifies a methodical approach to analyzing and improving a routine physical activity. By explicitly documenting each step and associated challenges, it lays the groundwork for iterative improvement grounded in practical observation rather than abstract advice.
+
