@@ -1,12 +1,26 @@
 ---
-slug: "github-enter-my-car"
-title: "enter_my_car"
-repo: "justin-napolitano/enter_my_car"
-githubUrl: "https://github.com/justin-napolitano/enter_my_car"
-generatedAt: "2025-11-23T08:53:45.154012Z"
-source: "github-auto"
+slug: github-enter-my-car
+title: Technical Analysis of Vehicle Entry Routine and Ergonomic Optimization
+repo: justin-napolitano/enter_my_car
+githubUrl: https://github.com/justin-napolitano/enter_my_car
+generatedAt: '2025-11-23T08:53:45.154012Z'
+source: github-auto
+summary: >-
+  Documentation and ergonomic evaluation of the physical routine for entering a personal vehicle,
+  focusing on comfort and procedural consistency.
+tags:
+  - ergonomics
+  - personal-infra
+  - routine-optimization
+  - vehicle-entry
+  - checklist
+seoPrimaryKeyword: vehicle entry routine
+seoSecondaryKeywords:
+  - ergonomic analysis
+  - routine documentation
+  - personal item management
+seoOptimized: true
 ---
-
 
 # Enter My Car: A Technical Reflection on Routine and Ergonomics
 
