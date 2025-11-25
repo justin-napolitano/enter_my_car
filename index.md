@@ -1,32 +1,41 @@
 ---
 slug: github-enter-my-car
-title: Technical Analysis of Vehicle Entry Routine and Ergonomic Optimization
+title: Optimizing Car Entry Routine for Comfort and Efficiency
 repo: justin-napolitano/enter_my_car
 githubUrl: https://github.com/justin-napolitano/enter_my_car
 generatedAt: '2025-11-23T08:53:45.154012Z'
 source: github-auto
 summary: >-
-  Documentation and ergonomic evaluation of the physical routine for entering a personal vehicle,
-  focusing on comfort and procedural consistency.
+  This project documents and analyzes the routine of entering a car to improve
+  ergonomics and efficiency.
 tags:
   - ergonomics
   - personal-infra
   - routine-optimization
   - vehicle-entry
   - checklist
-seoPrimaryKeyword: vehicle entry routine
-seoSecondaryKeywords:
-  - ergonomic analysis
-  - routine documentation
+  - workflow optimization
+  - routine analysis
   - personal item management
+  - vehicle comfort
+seoPrimaryKeyword: car entry routine optimization
+seoSecondaryKeywords:
+  - ergonomic car entry
+  - routine documentation
+  - vehicle workflow
+  - cognitive load reduction
+  - checklist development
 seoOptimized: true
 topicFamily: climbing
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post documents a physical routine involving vehicle entry with a focus on ergonomic
-  optimization and comfort, aligning with the 'Climbing' family which includes ergonomic and
-  physical comfort reflections and routines related to outdoor gear and activities. The post's
-  example slug matches the example in the catalog and the suggested tags like 'ergonomics' fit well.
+  The post documents a physical routine involving vehicle entry with a focus on
+  ergonomic optimization and comfort, aligning with the 'Climbing' family which
+  includes ergonomic and physical comfort reflections and routines related to
+  outdoor gear and activities. The post's example slug matches the example in
+  the catalog and the suggested tags like 'ergonomics' fit well.
+kind: project
+id: github-enter-my-car
 ---
 
 # Enter My Car: A Technical Reflection on Routine and Ergonomics
