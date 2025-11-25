@@ -1,20 +1,25 @@
 ---
 slug: github-enter-my-car
 id: github-enter-my-car
-title: Enter My Car
+title: Documenting Vehicle Entry Routine for Comfort and Consistency
 repo: justin-napolitano/enter_my_car
 githubUrl: https://github.com/justin-napolitano/enter_my_car
 generatedAt: '2025-11-24T21:34:39.800Z'
 source: github-auto
 summary: >-
-  A personal project documenting and reflecting on the routine of entering a
-  vehicle, with a focus on optimizing physical comfort and procedural
-  consistency. This repository captures observations and considerations around
-  daily vehicle entry habits.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a personal project focused on optimizing the routine of entering a
+  vehicle with ergonomic considerations and checklist development.
+tags:
+  - markdown
+  - documentation
+  - checklist
+seoPrimaryKeyword: vehicle entry routine documentation
+seoSecondaryKeywords:
+  - ergonomic car entry
+  - checklist development
+  - personal documentation
+  - vehicle comfort optimization
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
