@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/enter_my_car
 generatedAt: '2025-11-24T21:34:39.800Z'
 source: github-auto
 summary: >-
-  Explore a personal project focused on optimizing the routine of entering a
-  vehicle with ergonomic considerations and procedural documentation.
+  Explore a personal project focused on optimizing the routine of entering a vehicle with ergonomic
+  considerations and procedural documentation.
 tags:
   - markdown
   - documentation
@@ -22,8 +22,8 @@ seoSecondaryKeywords:
   - routine optimization
   - markdown documentation
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -78,3 +78,4 @@ enter_my_car/
 ---
 
 *Note: This project is primarily a personal documentation effort and does not include software components at this time.*
+
