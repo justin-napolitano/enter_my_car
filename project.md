@@ -8,17 +8,19 @@ generatedAt: '2025-11-24T21:34:39.800Z'
 source: github-auto
 summary: >-
   Explore a personal project focused on optimizing the routine of entering a
-  vehicle with ergonomic considerations and checklist development.
+  vehicle with ergonomic considerations and procedural documentation.
 tags:
   - markdown
   - documentation
   - checklist
+  - personal project
 seoPrimaryKeyword: vehicle entry routine documentation
 seoSecondaryKeywords:
   - ergonomic car entry
+  - personal item management
   - checklist development
-  - personal documentation
-  - vehicle comfort optimization
+  - routine optimization
+  - markdown documentation
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
